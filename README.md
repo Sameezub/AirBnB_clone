@@ -169,4 +169,5 @@ The recognizable commands by the interpreter are the following:
 
 ## Authors
 Grace Zubairu - <sameezub@gmail.com>
+
 Erasmus Tayviah - <boronicle@gmail.com>
