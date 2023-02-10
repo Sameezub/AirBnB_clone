@@ -168,6 +168,5 @@ The recognizable commands by the interpreter are the following:
 | **Usage** | **<class name\>.count()** |
 
 ## Authors
-
-Grace Zubairu - sameezub@gmail.com
-Erasmus Tayviah - boronicle@gmail.com
+Grace Zubairu - <sameezub@gmail.com>
+Erasmus Tayviah - <boronicle@gmail.com>
